@@ -9,19 +9,11 @@ Welcome to the Euro Coin Counting Project! This project represents the final ass
 The Euro Coin Counting Project involves several key steps:
 
 1. **Image Loading and Preprocessing 🖼️:**
-   - Load the grayscale image from the 'images/train' directory.
-   - Apply top-hat transformation to enhance image features.
 
 2. **Watershed Segmentation 💧:**
-   - Utilize watershed segmentation to identify different regions in the preprocessed image.
 
 3. **Connected Component Labeling 🏷️:**
-   - Label connected components and compute properties.
 
 4. **Coin Classification and Counting 💰:**
-   - Classify each connected component based on its diameter, determining the type of Euro coin.
-   - Generate counts and a summary table, including the total amount of money in Euros.
-
+  
 5. **Visualization 📊:**
-   - Display the original image with labeled circles representing each coin.
-   - Show the total amount of money as a title.
