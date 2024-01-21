@@ -8,15 +8,15 @@ Welcome to the Euro Coin Counting Project! This project represents the final ass
 
 The Euro Coin Counting Project involves several key steps:
 
-1. **Image Loading and Preprocessing 🖼️:**
+1. **Image Loading and Preprocessing 🖼️**
 
-2. **Watershed Segmentation 💧:**
+2. **Watershed Segmentation 💧**
 
-3. **Connected Component Labeling 🏷️:**
+3. **Connected Component Labeling 🏷️**
 
-4. **Coin Classification and Counting 💰:**
+4. **Coin Classification and Counting 💰**
   
-5. **Visualization 📊:**
+5. **Visualization 📊**
 
 ### Acknowledgments 👏
 
