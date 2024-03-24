@@ -2,7 +2,7 @@
 
 # 🪙 Euro Coin Counting Project 📸
 
-Welcome to the Euro Coin Counting Project! This project represents the final assignment for the Digital Image Processing and Analysis course during the first semester of the [iPSRS 2023](https://www.master-photonics4security.eu/psrs-in-2023-2025) program in collaboration with [Nadeer Hasan](https://www.linkedin.com/in/nadeer-hasan-329698211/). The primary aim is to employ digital image processing techniques to identify, classify, and count Euro coins from a given image.
+Welcome to the Euro Coin Counting Project! This project represents the final assignment for the Digital Image Processing and Analysis course during the first semester of the [PSRS 2023](https://www.master-photonics4security.eu/psrs-in-2023-2025) program in collaboration with [Nadeer Hasan](https://www.linkedin.com/in/nadeer-hasan-329698211/). The primary aim is to employ digital image processing techniques to identify, classify, and count Euro coins from a given image.
 
 ### Project Overview
 
