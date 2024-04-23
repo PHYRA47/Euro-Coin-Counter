@@ -21,6 +21,3 @@ The Euro Coin Counting Project involves several key steps:
 ### Acknowledgments 👏
 
 Special thanks to our instructor of the Digital Image Processing and Analysis course [Hubert Konik](https://www.linkedin.com/in/hubert-konik-30847810/) for providing the foundation and evaluation for this project.
-
-Feel free to contribute, report issues, or suggest improvements! 
-Happy coding! 🚀👩‍💻👨‍💻
